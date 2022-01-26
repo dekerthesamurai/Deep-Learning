@@ -1,5 +1,5 @@
-# Deep-Learning
+# Kaggle Solutions
 
-## Lab Codes
+## Google Notebooks
 
 Contains solution notebooks of all the solved kaggle Competitions...
